@@ -1,0 +1,44 @@
+
+{
+"plist":
+[
+    {
+      "img": "txt:第8波/黄金现场",
+      "url": "pkg:com.bytv.bayeetv3",
+      "txt": "黄金现场"
+    },
+    
+    {
+      "img": "txt:報紙新聞",
+      "url": "pkg:com.example.newsreader",
+      "txt": "報紙新聞"
+    }, 
+    
+    {
+      "img": "txt:泰國戲",
+      "url": "ytlist:PLkzvQsQu-ofu3gIJY5N_QP81Xtvz31fZ0",
+      "txt": "泰國戲"
+    },  
+    
+    {
+      "img": "txt:講看什麼",
+      "url": "stt:",
+      "txt": "講看什麼"
+    },  
+    
+    {
+      "img": "txt:看過的戲",
+      "url": "pkg:com.teamsmart.videomanager.tv",
+      "txt": "看過的戲 "
+    },  
+
+       
+    {
+      "img": "txt:黄金重播",
+      "url": "ytlist:UCtSWqbsvDFNdDiv9AY5U_QA",
+      "txt": "黄金重播"
+    }   
+    
+    
+]
+}
