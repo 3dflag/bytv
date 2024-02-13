@@ -1,0 +1,60 @@
+
+{
+"plist":
+[ 
+
+
+
+    {
+      "img": "txt:電視直播",
+      "url": "pkg:com.bytv.bayeetv3",
+      "txt": "電視直播"
+    },
+    
+    {
+      "img": "txt:報紙新聞",
+      "url": "pkg:com.example.newsreader",
+      "txt": "報紙新聞"
+    }, 
+    
+    {
+      "img": "txt:講看什麼",
+      "url": "stt:",
+      "txt": "講看什麼"
+    }, 
+    
+    {
+      "img": "txt:健康资讯",
+      "url": "grp:16Ycl_A_IeL440RgutE9CYfgmd_WbuJ7c",
+      "txt": "健康资讯"
+    },    
+    
+    {
+      "img": "txt:相片簿",
+      "url": "photo:1_6SdoaDhu_MCZlCcMrj0fw7_rAn_QZT0",
+      "txt": "相片簿"
+    },       
+    
+    {
+      "img": "txt:大馬時事",
+      "url": "grp:1TOqrXZUzjT_67Zs8mKudQCSj4Pl_nCMY",
+      "txt": "大馬時事"
+    },
+    
+    {
+      "img": "txt:臺海局勢",
+      "url": "grp:1yXFp_odcUhABjCvJjo8Jf5ivmqkhIFPE",
+      "txt": "臺海局勢"
+    },     
+    
+    {
+      "img": "txt:其他視頻",
+      "url": "grp:1YSfcj0nAyYVtxisdLkrAHOihjgV7QPdZ",
+      "txt": "其他視頻"
+    }
+    
+
+    
+   
+]
+}
