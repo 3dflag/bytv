@@ -25,31 +25,31 @@
     
     {
       "img": "txt:健康资讯",
-      "url": "grp:16Ycl_A_IeL440RgutE9CYfgmd_WbuJ7c",
+      "url": "grp:t_health.json",
       "txt": "健康资讯"
     },    
     
     {
       "img": "txt:相片簿",
-      "url": "photo:1_6SdoaDhu_MCZlCcMrj0fw7_rAn_QZT0",
+      "url": "photo:t_photo.json",
       "txt": "相片簿"
     },       
     
     {
       "img": "txt:大馬時事",
-      "url": "grp:1TOqrXZUzjT_67Zs8mKudQCSj4Pl_nCMY",
+      "url": "grp:t_malaysia.json",
       "txt": "大馬時事"
     },
     
     {
       "img": "txt:臺海局勢",
-      "url": "grp:1yXFp_odcUhABjCvJjo8Jf5ivmqkhIFPE",
+      "url": "grp:t_taiwan.json",
       "txt": "臺海局勢"
     },     
     
     {
       "img": "txt:其他視頻",
-      "url": "grp:1YSfcj0nAyYVtxisdLkrAHOihjgV7QPdZ",
+      "url": "grp:t_other.json",
       "txt": "其他視頻"
     }
     
