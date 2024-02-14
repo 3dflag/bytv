@@ -322,7 +322,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv1&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-				{"url":"http://qspyx.7766.org:9999/tsfile/live/0001_1.m3u8"},
+				{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8"},
 		    	{"url":"http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv1"},			
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv1_2/index.m3u8"},
@@ -337,7 +337,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv2&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0002_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv2"},			
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv1_2/index.m3u8"},
 			    {"url":"http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8"},
@@ -351,7 +351,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv3&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0003_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv3"},
 			    {"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv3_2/index.m3u8"},
 			    {"url":"http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8"},
@@ -376,7 +376,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv5&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0005_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv5"},			
 			    {"url":"http://live.centerch.com/cctv5.m3u8"},
 			    {"url":"http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8"},
@@ -390,7 +390,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv6&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0006_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv6"},			
 			    {"url":"http://live.centerch.com/cctv6.m3u8"},
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv6_2/index.m3u8"},
@@ -405,7 +405,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv7&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0007_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv7"},			
 			    {"url":"http://live.centerch.com/cctv6.m3u8"},
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv6_2/index.m3u8"},
@@ -420,7 +420,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv8&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0008_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv8"},			
 		    	{"url":"http://live.centerch.com/cctv8.m3u8"},
 			    {"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv8_2/index.m3u8"},
@@ -435,7 +435,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv9&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0009_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv9"},			
 		    	{"url":"http://live.centerch.com/cctv9.m3u8"},
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctvjilu_2/index.m3u8"},
@@ -450,7 +450,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv10&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0010_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv10"},			
 			    {"url":"http://live.centerch.com/cctv10.m3u8"},
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv10_2/index.m3u8"},
@@ -465,7 +465,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv11&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0011_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv11"},			
 			    {"url":"http://live.centerch.com/cctv10.m3u8"},
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv10_2/index.m3u8"},
@@ -480,7 +480,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv12&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0012_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv12"},			
 			    {"url":"http://live.centerch.com/cctv10.m3u8"},
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv10_2/index.m3u8"},
@@ -495,7 +495,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv13&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0013_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv13"},			
 		    	{"url":"https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctv13_1/index.m3u8"},
 		    	{"url":"http://live.centerch.com/cctv13.m3u8"},
@@ -511,7 +511,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv14&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0014_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv14"},			
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv13_2/index.m3u8"},
 			    {"url":"http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8"},
@@ -525,7 +525,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv15&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://qspyx.7766.org:9999/tsfile/live/0015_1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv15"},			
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv13_2/index.m3u8"},
 			    {"url":"http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8"},
@@ -539,7 +539,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv15&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv15"},			
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv13_2/index.m3u8"},
 			    {"url":"http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8"},
@@ -553,7 +553,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv5plus&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8"},
+		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv5phd"},
 				{"url":"http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8"},
 				{"url":"http://117.169.72.6:8080/ysten-businessmobile/live/cctv-13/1.m3u8"}
