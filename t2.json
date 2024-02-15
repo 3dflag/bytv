@@ -31,19 +31,21 @@
       "url": "stt:",
       "txt": "講看什麼"
     },  
+
+    {
+      "img": "txt:黄金重播",
+      "url": "ytlist:UCtSWqbsvDFNdDiv9AY5U_QA",
+      "txt": "黄金重播"
+    },    
     
     {
       "img": "txt:看過的戲",
       "url": "pkg:com.teamsmart.videomanager.tv",
       "txt": "看過的戲 "
-    },  
+    }  
 
        
-    {
-      "img": "txt:黄金重播",
-      "url": "ytlist:UCtSWqbsvDFNdDiv9AY5U_QA",
-      "txt": "黄金重播"
-    }   
+  
     
     
 ]
