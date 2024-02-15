@@ -15,10 +15,16 @@
     }, 
     
     {
-      "img": "https://i.ytimg.com/vi/ZgtrmRy26wg/hqdefault.jpg",
-      "url": "ytlist:FA煮饭粘锅",
-      "txt": "怎样煮饭不粘锅"
-    },  
+      "img": "txt:连戏剧",
+      "url": "grp:t_drama.json",
+      "txt": "连戏剧"
+    }, 
+
+    {
+      "img": "txt:电影",
+      "url": "grp:t_movie.json",
+      "txt": "电影"
+    }, 
     
     {
       "img": "txt:講看什麼",
