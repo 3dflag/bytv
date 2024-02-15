@@ -1,0 +1,19 @@
+{
+"plist":
+[ 
+
+    {
+      "img": "txt:武侠电影",
+      "url": "ytlist:FL武侠电影",
+      "txt": "武侠电影"
+    }, 
+
+    {
+      "img": "txt:泰国片",
+      "url": "ytlist:FL泰国片",
+      "txt": "泰国片"
+    }
+
+   
+]
+}
