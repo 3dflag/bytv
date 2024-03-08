@@ -778,9 +778,9 @@
 			"id":"396",
 			"name":"正德電視臺",
 			"epg":"",
-			"type":"youtubelive",
+			"type":"youtubesearch",
 			"stream":[
-				{"url":"CNSMPnuA7kM"}
+				{"url":"%E6%AD%A3%E5%BE%B7%E9%9B%BB%E8%A6%96%E8%87%BA&sp=EgJAAQ%253D%253D"}
 			]
 		},
 		{
