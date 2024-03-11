@@ -66,7 +66,7 @@
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=106",
 			"type":"drmclear",
 			"stream":[
-			    {"url":"https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd","referer":"J6L3HYe/XrEFrwlvtmBdlw,Ov4w7k6iSmf+Wi7wboPbCw"}
+			    {"url":"03","referer":"J6L3HYe/XrEFrwlvtmBdlw,Ov4w7k6iSmf+Wi7wboPbCw"}
 			]
 		},
 		{
@@ -95,7 +95,7 @@
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=115",
 			"type":"drmclear",
 			"stream":[
-			      {"url":"https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd","referer":"BW4eSVc9LK7ly0/nj4xPPQ,qcYZB07TjCDiWtNsPFfBDA"}
+			      {"url":"08","referer":"BW4eSVc9LK7ly0/nj4xPPQ,qcYZB07TjCDiWtNsPFfBDA"}
 			]
 		},
 				
@@ -108,7 +108,7 @@
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=48",
 			"type":"drmclear",
 			"stream":[
-			      {"url":"https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd","referer":"Zfavh1DSSyMNkbmEI3rB5A,HfqKZFr0HoPFIL3fkTk0yg"}
+			      {"url":"09","referer":"Zfavh1DSSyMNkbmEI3rB5A,HfqKZFr0HoPFIL3fkTk0yg"}
 			]
 		},
 
