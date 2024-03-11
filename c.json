@@ -64,9 +64,9 @@
 			"id":"103",
 			"name":"TV3",
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=106",
-			"type":"direct",
+			"type":"drmclear",
 			"stream":[
-			    {"url":"https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8","referer":"https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0"}
+			    {"url":"https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd","referer":"J6L3HYe/XrEFrwlvtmBdlw,Ov4w7k6iSmf+Wi7wboPbCw"}
 			]
 		},
 		{
@@ -93,9 +93,9 @@
 			"id":"108",
 			"name":"八度空间",
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=115",
-			"type":"direct",
+			"type":"drmclear",
 			"stream":[
-			      {"url":"https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8","referer":"https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0"}
+			      {"url":"https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd","referer":"BW4eSVc9LK7ly0/nj4xPPQ,qcYZB07TjCDiWtNsPFfBDA"}
 			]
 		},
 				
@@ -106,9 +106,9 @@
 			"id":"109",
 			"name":"9tv",
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=48",
-			"type":"direct",
+			"type":"drmclear",
 			"stream":[
-			      {"url":"https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8","referer":"https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0"}
+			      {"url":"https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd","referer":"Zfavh1DSSyMNkbmEI3rB5A,HfqKZFr0HoPFIL3fkTk0yg"}
 			]
 		},
 
