@@ -64,9 +64,9 @@
 			"id":"103",
 			"name":"TV3",
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=106",
-			"type":"drmclear",
+			"type":"direct",
 			"stream":[
-			    {"url":"03","referer":"J6L3HYe/XrEFrwlvtmBdlw,Ov4w7k6iSmf+Wi7wboPbCw"}
+			    {"url":"drm3tv","referer":""}
 			]
 		},
 		{
@@ -93,9 +93,9 @@
 			"id":"108",
 			"name":"八度空间",
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=115",
-			"type":"drmclear",
+			"type":"direct",
 			"stream":[
-			      {"url":"08","referer":"BW4eSVc9LK7ly0/nj4xPPQ,qcYZB07TjCDiWtNsPFfBDA"}
+			      {"url":"drm8tv","referer":""}
 			]
 		},
 				
@@ -108,7 +108,7 @@
 			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=48",
 			"type":"drmclear",
 			"stream":[
-			      {"url":"09","referer":"Zfavh1DSSyMNkbmEI3rB5A,HfqKZFr0HoPFIL3fkTk0yg"}
+			      {"url":"drm9tv","referer":""}
 			]
 		},
 
