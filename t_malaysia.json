@@ -2,7 +2,16 @@
 {
 "plist":
 [ 
-
+    {
+      "img": "https://i.ytimg.com/vi/8RgB_a3-7nQ/mqdefault.jpg",
+      "url": "ytlist:UCwMx9TEXIOWHKh9ujxVHcWA",
+      "txt": "李伟康"
+    },
+    {
+      "img": "https://i.ytimg.com/vi/duKmOIt1qSU/mqdefault.jpg",
+      "url": "ytlist:UCYqiSSOlf3vTxL6eQjAdDxA",
+      "txt": "医美人生"
+    },    
     {
       "img": "https://i.ytimg.com/vi/b8FJa7cZtao/mqdefault.jpg",
       "url": "ytlist:UCVqinmg6AwO8KE40CBeudwA",
@@ -35,9 +44,9 @@
       "txt": "kiniTV中文"
     },
     {
-      "img": "https://i.ytimg.com/vi/jpr88zx6CYA/mqdefault.jpg",
-      "url": "ytlist:PLFaBbEGqsCi15V3UKaIbsdnmCD9hbqyzp",
-      "txt": "主播点新闻"
+      "img": "https://i.ytimg.com/vi/9UQUQS5ocBA/mqdefault.jpg",
+      "url": "ytlist:UC3U907T0cpwbsJz6_o4ghYQ",
+      "txt": "锋人馆-蓝志锋"
     },    
     {
       "img": "https://i.ytimg.com/vi/FG9U3pVS0lM/mqdefault.jpg",
