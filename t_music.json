@@ -1,0 +1,19 @@
+{
+"plist":
+[ 
+
+    {
+      "img": "txt:黄金重播",
+      "url": "ytlist:UCtSWqbsvDFNdDiv9AY5U_QA",
+      "txt": "黄金重播"
+    },   
+
+    {
+      "img": "txt:蓝与黑",
+      "url": "pkg:com.example.flutteryt",
+      "txt": "蓝与黑"
+    }
+
+   
+]
+}
