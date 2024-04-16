@@ -3,9 +3,9 @@
 "plist":
 [
     {
-      "img": "txt:第8波/黄金现场",
+      "img": "txt:第8频道",
       "url": "pkg:com.bytv.bayeetv3",
-      "txt": "黄金现场"
+      "txt": "第8频道"
     },
     
     {
@@ -14,11 +14,7 @@
       "txt": "報紙新聞"
     },    
 
-    {
-      "img": "txt:蓝与黑",
-      "url": "pkg:com.example.flutteryt",
-      "txt": "蓝与黑"
-    },    
+  
 
      {
       "img": "txt:独爱一生",
@@ -45,10 +41,10 @@
     },  
 
     {
-      "img": "txt:黄金重播",
-      "url": "ytlist:UCtSWqbsvDFNdDiv9AY5U_QA",
-      "txt": "黄金重播"
-    },    
+      "img": "txt:黄金年华",
+      "url": "grp:t_music.json",
+      "txt": "黄金年华"
+    },  
     
     {
       "img": "txt:看過的戲",
