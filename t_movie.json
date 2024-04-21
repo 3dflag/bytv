@@ -3,6 +3,20 @@
 [ 
 
     {
+      "img": "txt:锦衣卫",
+      "url": "m3u8:https://m3u.haiwaikan.com/xm3u8/8c8be01c505263710cdae14c7f7abc13b05b9f863a6f025258ab1c873016b9589921f11e97d0da21.m3u8",
+      "txt": "锦衣卫"
+    },     
+
+    {
+      "img": "txt:周处除三害",
+      "url": "m3u8:https://m3u.haiwaikan.com/xm3u8/f4c9cc7f0b6c896719b1925b8548a9693a1df486eefcfd9087b1f44803fb53a09921f11e97d0da21.m3u8",
+      "txt": "周处除三害"
+    },   
+
+    
+
+    {
       "img": "txt:武侠电影",
       "url": "ytlist:FL最新武侠电影",
       "txt": "武侠电影"
