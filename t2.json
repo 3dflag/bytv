@@ -7,6 +7,12 @@
       "url": "pkg:com.bytv.bayeetv3",
       "txt": "第8频道"
     },
+
+    {
+      "img": "txt:多多戏",
+      "url": "pkg:com.mudvod.video.tv",
+      "txt": "多多戏"
+    },
     
     {
       "img": "txt:報紙新聞",
