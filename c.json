@@ -266,7 +266,7 @@
 			"epg":"https://nowtv.now.com/gw-epg/epg/zh_tw/yyyyMMdd/prf136/resp-ch/ch_548.json",
 			"type":"direct",
 			"stream":[
-			    {"url":"https://cd05991.kylintv.tv/live/pxna_iphone.m3u8"},
+			    {"url":"https://k44991.kylintv.tv/live/pxna_iphone.m3u8"},
 			    {"url":"麒麟https://v.kylintv.com/#/live"},
 				{"url":"http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8"},
 				{"url":"http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1"}
@@ -292,7 +292,7 @@
 			"epg":"https://nowtv.now.com/gw-epg/epg/zh_tw/yyyyMMdd/prf136/resp-ch/ch_367.json",
 			"type":"direct",
 			"stream":[
-				{"url":"https://cd05991.kylintv.tv/live/pxhkus_iphone.m3u8"}
+				{"url":"https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8"}
 			]
 		},	
 		
@@ -302,7 +302,7 @@
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"https://cd05991.kylintv.tv/live/pxnaus_20240106013630.ts"}
+				{"url":"https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"}
 			]
 		},
 		
@@ -312,7 +312,7 @@
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"https://cd05991.kylintv.tv/live/qljdhd_iphone.m3u8"}
+				{"url":"https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8"}
 			]
 		},
 		
@@ -322,7 +322,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv1&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-				{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8"},
+				{"url":"https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8"},
 		    	{"url":"http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv1"},			
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv1_2/index.m3u8"},
@@ -337,7 +337,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv2&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8"},
+		    	{"url":"https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv2"},			
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv1_2/index.m3u8"},
 			    {"url":"http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8"},
@@ -376,7 +376,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv5&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"},
+		    	{"url":"https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv5"},			
 			    {"url":"http://live.centerch.com/cctv5.m3u8"},
 			    {"url":"http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8"},
@@ -405,7 +405,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv7&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8"},
+		    	{"url":"https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv7"},			
 			    {"url":"http://live.centerch.com/cctv6.m3u8"},
 		    	{"url":"http://cctvksh5ca.v.kcdnvip.com/live/cctv6_2/index.m3u8"},
@@ -495,7 +495,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv13&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8"},
+		    	{"url":"https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv13"},			
 		    	{"url":"https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctv13_1/index.m3u8"},
 		    	{"url":"http://live.centerch.com/cctv13.m3u8"},
@@ -798,7 +798,7 @@
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"https://cd05991.kylintv.tv/live/gdtv2_iphone.m3u8"}
+				{"url":"https://k44991.kylintv.tv/live/gdtv2_iphone.m3u8"}
 			]
 		},			
 
@@ -861,7 +861,7 @@
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"https://cd05991.kylintv.tv/live/formosatv_iphone.m3u8"}
+				{"url":"https://k44991.kylintv.tv/live/formosatv_iphone.m3u8"}
 			]
 		},
 		{
@@ -870,7 +870,7 @@
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"https://cd05991.kylintv.tv/live/ctshd_iphone.m3u8"}
+				{"url":"https://k44991.kylintv.tv/live/ctshd_iphone.m3u8"}
 			]
 		},		
 
