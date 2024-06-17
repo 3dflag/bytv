@@ -9,6 +9,16 @@
 				{"url":"XWq5kBlakcQ"}
 			]
 		},
+
+		{
+			"id":"7",
+			"name":"8视界",
+			"epg":"",
+			"type":"youtubelive",
+			"stream":[
+				{"url":"RvSOIM620bA"}
+			]
+		},		
 		{
 			"id":"8",
 			"name":"8频道",
