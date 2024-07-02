@@ -9,6 +9,12 @@
     },
 
     {
+      "img": "txt:老人运动",
+      "url": "ytlist:FA中老年人健身",
+      "txt": "中老年人健身"
+    }
+
+    {
       "img": "txt:多多戏",
       "url": "pkg:com.mudvod.video.tv",
       "txt": "多多戏"
