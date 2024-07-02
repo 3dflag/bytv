@@ -2,18 +2,6 @@
 "plist":
 [ 
 
-    {
-      "img": "txt:锦衣卫",
-      "url": "m3u8:https://m3u.haiwaikan.com/xm3u8/8c8be01c505263710cdae14c7f7abc13b05b9f863a6f025258ab1c873016b9589921f11e97d0da21.m3u8",
-      "txt": "锦衣卫"
-    },     
-
-    {
-      "img": "txt:地心引力",
-      "url": "m3u8:https://m3u.haiwaikan.com/xm3u8/1b02dadb96930e7095fcde54dfe86df4381a6f7e89fc9e97e2df665dc49647119921f11e97d0da21.m3u8",
-      "txt": "地心引力"
-    },   
-
     
 
     {
