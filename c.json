@@ -910,9 +910,9 @@
 			"id":"422",
 			"name":"吳宗憲綜藝",
 			"epg":"",
-			"type":"youtubesearch",
+			"type":"direct",
 			"stream":[
-				{"url":"%E5%90%B3%E5%AE%97%E6%86%B2&sp=EgJAAQ%253D%253D"}
+				{"url":"https://cdn.hksec.eu.org/live/cctv5.m3u8?token=v41LUeuZgRNU55WQrdX1mQ&expires=1721000716"}
 			]
 		},		
 		{
@@ -924,15 +924,7 @@
 				{"url":"%E5%8F%B0%E7%81%A3%E5%95%9F%E7%A4%BA%E9%8C%84%E9%A0%BB%E9%81%93&sp=EgJAAQ%253D%253D"}
 			]
 		},
-				{
-			"id":"425",
-			"name":"台灣啟示錄頻道",
-			"epg":"",
-			"type":"direct",
-			"stream":[
-				{"url":"https://cdn.hksec.eu.org/live/cctv5.m3u8?token=Cr-W9wG-GCx3RoAyYT22Sg&expires=1720999280"}
-			]
-		},
+
 				{
 			"id":"426",
 			"name":"台灣啟示錄頻道",
