@@ -908,7 +908,7 @@
 		
 		{
 			"id":"422",
-			"name":"吳宗憲綜藝",
+			"name":"euro3",
 			"epg":"",
 			"type":"direct",
 			"stream":[
@@ -917,17 +917,17 @@
 		},		
 		{
 			"id":"423",
-			"name":"台灣啟示錄頻道",
+			"name":"euro",
 			"epg":"",
-			"type":"youtubesearch",
+			"type":"direct",
 			"stream":[
-				{"url":"%E5%8F%B0%E7%81%A3%E5%95%9F%E7%A4%BA%E9%8C%84%E9%A0%BB%E9%81%93&sp=EgJAAQ%253D%253D"}
+				{"url":"https://wiki.mizhls.ru/wiki/wiki59/tracks-v1a1/mono.m3u8"}
 			]
 		},
 
 				{
 			"id":"426",
-			"name":"台灣啟示錄頻道",
+			"name":"euro2",
 			"epg":"",
 			"type":"direct",
 			"stream":[
