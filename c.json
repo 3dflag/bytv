@@ -906,36 +906,9 @@
 			]
 		},		
 		
+
 		{
 			"id":"422",
-			"name":"euro3",
-			"epg":"",
-			"type":"direct",
-			"stream":[
-				{"url":"https://pl.6d5gnjjjjdns.shop/playlist/23839/goozr.dmnkfui8jjd3h2.shop/caxi.m3u8"}
-			]
-		},		
-		{
-			"id":"423",
-			"name":"euro",
-			"epg":"",
-			"type":"direct",
-			"stream":[
-				{"url":"https://wiki.mizhls.ru/wiki/wiki59/tracks-v1a1/mono.m3u8"}
-			]
-		},
-
-				{
-			"id":"426",
-			"name":"euro2",
-			"epg":"",
-			"type":"direct",
-			"stream":[
-				{"url":"https://eu02.flowstreams.pw/milofox/tracks-v1a1/mono.m3u8"}
-			]
-		},
-		{
-			"id":"430",
 			"name":"天才衝衝衝",
 			"epg":"",
 			"type":"youtubesearch",
