@@ -900,9 +900,9 @@
 			"id":"421",
 			"name":"萬秀豬王",
 			"epg":"",
-			"type":"youtubesearch",
+			"type":"direct",
 			"stream":[
-				{"url":"%E8%90%AC%E7%A7%80%E8%B1%AC%E7%8E%8B&sp=EgJAAQ%253D%253D"}
+				{"url":"https://eu02.flowstreams.pw/milofox/tracks-v1a1/mono.m3u8"}
 			]
 		},		
 		
