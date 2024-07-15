@@ -902,7 +902,8 @@
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"https://eu02.flowstreams.pw/milofox/tracks-v1a1/mono.m3u8"}
+				
+				{"url":"https://eu02.flowstreams.top/milofox/tracks-v1a1/mono.m3u8"}
 			]
 		},		
 		
