@@ -936,7 +936,7 @@
 			"type":"direct",
 			"stream":[
 				
-				{"url":"https://eu02.flowstreams.pw/olympics/tracks-v1a1/mono.m3u8"}
+				{"url":"https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8"}
 			]
 		},
 
@@ -947,7 +947,7 @@
 			"type":"direct",
 			"stream":[
 				
-				{"url":"https://eu02.dmca.run/olympics-cnbc/tracks-a1/mono.m3u8"}
+				{"url":"https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b2596000_slENG.m3u8"}
 			]
 		},	
 
@@ -958,7 +958,29 @@
 			"type":"direct",
 			"stream":[
 				
-				{"url":"https://eu02.dmca.run/olympics-e/tracks-v1a1/mono.m3u8"}
+				{"url":"https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b2596000_slENG.m3u8"}
+			]
+		},
+
+		{
+			"id":"455",
+			"name":"Paris 2024 CH5",
+			"epg":"",
+			"type":"direct",
+			"stream":[
+				
+				{"url":"https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/chunklist_b2596000_slENG.m3u8"}
+			]
+		},	
+
+		{
+			"id":"456",
+			"name":"Paris 2024 CH6",
+			"epg":"",
+			"type":"direct",
+			"stream":[
+				
+				{"url":"https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"}
 			]
 		}		
 		
