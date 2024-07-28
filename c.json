@@ -925,7 +925,7 @@
 			"type":"direct",
 			"stream":[
 				
-				{"url":"https://eu02.flowstreams.pw/olympics-usa/tracks-v1a1/mono.m3u8"}
+				{"url":"https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8"}
 			]
 		},	
 
