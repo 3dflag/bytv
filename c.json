@@ -916,6 +916,50 @@
 			"stream":[
 			      {"url":"%E5%A4%A9%E6%89%8D%E8%A1%9D%E8%A1%9D%E8%A1%9D&sp=EgJAAQ%253D%253D"}
 			]
+		},
+
+		{
+			"id":"451",
+			"name":"Paris 2024 CH1",
+			"epg":"",
+			"type":"direct",
+			"stream":[
+				
+				{"url":"https://eu02.flowstreams.pw/olympics-usa/tracks-v1a1/mono.m3u8"}
+			]
+		},	
+
+		{
+			"id":"452",
+			"name":"Paris 2024 CH2",
+			"epg":"",
+			"type":"direct",
+			"stream":[
+				
+				{"url":"https://eu02.flowstreams.pw/olympics/tracks-v1a1/mono.m3u8"}
+			]
+		},
+
+		{
+			"id":"453",
+			"name":"Paris 2024 CH3",
+			"epg":"",
+			"type":"direct",
+			"stream":[
+				
+				{"url":"https://eu02.dmca.run/olympics-cnbc/tracks-a1/mono.m3u8"}
+			]
+		},	
+
+		{
+			"id":"454",
+			"name":"Paris 2024 CH4",
+			"epg":"",
+			"type":"direct",
+			"stream":[
+				
+				{"url":"https://eu02.dmca.run/olympics-e/tracks-v1a1/mono.m3u8"}
+			]
 		}		
 		
 	]
