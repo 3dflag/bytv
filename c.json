@@ -920,7 +920,7 @@
 
 		{
 			"id":"451",
-			"name":"Paris 2024 CH1",
+			"name":"巴黎2024 1",
 			"epg":"",
 			"type":"direct",
 			"stream":[
@@ -931,7 +931,7 @@
 
 		{
 			"id":"452",
-			"name":"Paris 2024 CH2",
+			"name":"巴黎2024 2",
 			"epg":"",
 			"type":"direct",
 			"stream":[
@@ -942,7 +942,7 @@
 
 		{
 			"id":"453",
-			"name":"Paris 2024 CH3",
+			"name":"巴黎2024 3",
 			"epg":"",
 			"type":"direct",
 			"stream":[
@@ -953,7 +953,7 @@
 
 		{
 			"id":"454",
-			"name":"Paris 2024 CH4",
+			"name":"巴黎2024 4",
 			"epg":"",
 			"type":"direct",
 			"stream":[
@@ -964,7 +964,7 @@
 
 		{
 			"id":"455",
-			"name":"Paris 2024 CH5",
+			"name":"巴黎2024 5",
 			"epg":"",
 			"type":"direct",
 			"stream":[
@@ -975,7 +975,7 @@
 
 		{
 			"id":"456",
-			"name":"Paris 2024 CH6",
+			"name":"巴黎2024 CH6",
 			"epg":"",
 			"type":"direct",
 			"stream":[
