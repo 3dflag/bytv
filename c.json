@@ -386,7 +386,7 @@
 			"epg":"http://api.cntv.cn/epg/epginfo?serviceId=tvcctv&c=cctv5&d=yyyyMMdd",
 			"type":"direct",
 			"stream":[
-		    	{"url":"https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8"},
+		    	{"url":"https://zbpull3.gobohui.com/live/98389789296116323784.m3u8"},
 			    {"url":"rtmp://58.200.131.2:1935/livetv/cctv5"},			
 			    {"url":"http://live.centerch.com/cctv5.m3u8"},
 			    {"url":"http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8"},
