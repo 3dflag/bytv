@@ -1,0 +1,60 @@
+
+{
+"plist":
+[
+    {
+      "img": "txt:看电视",
+      "url": "pkg:com.bytv.bayeetv3",
+      "txt": "看电视"
+    },
+
+    {
+      "img": "https://i.ytimg.com/vi/Rp6pZDSfQ34/mqdefault.jpg",
+      "url": "ytlist:EPLF0CB8E7B4C77DB61",
+      "txt": "看摔跤1"
+    },
+    
+    {
+      "img": "https://i.ytimg.com/vi/O9aMoV2ke0g/mqdefault.jpg",
+      "url": "ytlist:EPL6C6A4475B56EC5B1",
+      "txt": "看摔跤2"
+    },
+    
+    {
+      "img": "https://i.ytimg.com/vi/PaI1NSK4yoU/mqdefault.jpg",
+      "url": "ytlist:EPLqIVmFaHA8Bq_KHlRxKTR7XSq7iSCpJSe",
+      "txt": "看摔跤3"
+    },
+    
+    {
+      "img": "https://i.ytimg.com/vi/BoIvdLMUvks/mqdefault.jpg",
+      "url": "ytlist:EPLqIVmFaHA8Br7dZnrK2tNW7J98vd2U9wV",
+      "txt": "看摔跤4"
+    },    
+    
+    {
+      "img": "https://i.ytimg.com/vi/f3Klx7p8RHc/mqdefault.jpg",
+      "url": "ytlist:PLAID9qR4OdxOH--ckM8-yN2PlBa3JZIME",
+      "txt": "晚上八度新闻"
+    },
+    
+    {
+      "img": "https://i.ytimg.com/vi/tHdz8GhexFo/mqdefault.jpg",
+      "url": "ytlist:PLAID9qR4OdxMLz_yaUZdCY1gAv7vOjG4y",
+      "txt": "中午八度新闻"
+    },    
+    
+    {
+      "img": "https://i.ytimg.com/vi/MFb51ZJejLw/mqdefault.jpg",
+      "url": "ytlist:PLAID9qR4OdxOr5Dau5TTsFZRkMLhjWzUP",
+      "txt": "早上八度新闻"
+    },
+    
+    {
+      "img": "https://i.ytimg.com/vi/NVK-_eEwIiE/mqdefault.jpg",
+      "url": "ytlist:UCUqUtr0w-K8W4AfpbHiYSaQ",
+      "txt": "新加坡新闻"
+    }     
+
+]
+}

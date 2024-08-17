@@ -1,0 +1,60 @@
+{
+"plist":
+[
+
+
+    {
+      "img": "txt:老人运动",
+      "url": "ytlist:PLpISTihvlWQQcA2nr7p1Zpucpocf8FIu-",
+      "txt": "中老年人健身"
+    },
+
+    {
+      "img": "txt:罗小小 九妹",
+      "url": "ytlist:PLpISTihvlWQQcA2nr7p1Zpucpocf8FIu-",
+      "txt": "罗小小 九妹"
+    },    
+
+    {
+      "img": "txt:多多戏",
+      "url": "pkg:tv.ifvod.classic",
+      "txt": "多多戏"
+    },
+    
+    
+    {
+      "img": "txt:连戏剧",
+      "url": "grp:t_drama.json",
+      "txt": "连戏剧"
+    }, 
+
+    {
+      "img": "txt:电影",
+      "url": "grp:t_movie.json",
+      "txt": "电影"
+    }, 
+    
+    {
+      "img": "txt:講看什麼",
+      "url": "stt:",
+      "txt": "講看什麼"
+    },  
+
+    {
+      "img": "txt:黄金年华",
+      "url": "grp:t_music.json",
+      "txt": "黄金年华"
+    },  
+    
+    {
+      "img": "txt:看過的戲",
+      "url": "pkg:com.teamsmart.videomanager.tv",
+      "txt": "看過的戲 "
+    }  
+
+       
+  
+    
+    
+]
+}
