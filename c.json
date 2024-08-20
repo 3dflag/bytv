@@ -670,8 +670,19 @@
 				{"url":"wM0g8EoUZ_E"}
 			]
 		},	
+
 		{
 			"id":"362",
+			"name":"鏡新聞",
+			"epg":"",
+			"type":"youtubelive",
+			"stream":[
+				{"url":"5n0y6b0Q25o"}
+			]
+		},
+		
+		{
+			"id":"363",
 			"name":"东森财经",
 			"epg":"",
 			"type":"youtubelive",
@@ -679,29 +690,32 @@
 				{"url":"WHEPzbFA3hw"}
 			]
 		},	
-		
+
 		{
-			"id":"363",
-			"name":"鏡新聞",
+			"id":"364",
+			"name":"寰宇新聞財經台",
 			"epg":"",
 			"type":"youtubelive",
 			"stream":[
-				{"url":"5n0y6b0Q25o"}
+				{"url":"WTRQiVWK1jY"}
+			]
+		},	
+
+		{
+			"id":"365",
+			"name":"三立財經台",
+			"epg":"",
+			"type":"youtubelive",
+			"stream":[
+				{"url":"1mbhK0xfohY"}
 			]
 		},		
 		
+		
+		
  	
 	
-		{
-			"id":"375",
-			"name":"原住民电视",
-			"epg":"",
-			"type":"direct",
-			"stream":[
-				{"url":"http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"}
-			]
-		},		
-        
+
 
 										
 		
