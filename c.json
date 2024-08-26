@@ -11,6 +11,16 @@
 		},
 
 		{
+			"id":"7",
+			"name":"八度空间",
+			"epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=115",
+			"type":"direct",
+			"stream":[
+			      {"url":"drm8tv","referer":""}
+			]
+		},		
+
+		{
 			"id":"8",
 			"name":"8视界",
 			"epg":"",
