@@ -5,15 +5,15 @@
 
 
     {
-      "img": "txt:",
-      "url": "pkg:com.bytv.bayeetv3",
-      "txt": "電視直播"
+      "img": "txt:洪律师",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_001.txt",
+      "txt": "談表演賽邀請風波"
     },
     
     {
-      "img": "txt:報紙新聞",
-      "url": "pkg:com.example.newsreader",
-      "txt": "報紙新聞"
+      "img": "txt:阿耀",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_002.txt",
+      "txt": "高手在民间"
     }
     
    
