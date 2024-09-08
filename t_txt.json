@@ -47,6 +47,12 @@
 
     {
       "img": "txt:阿耀",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_008.txt",
+      "txt": "来至辩手的话"
+    },      
+
+    {
+      "img": "txt:阿耀",
       "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_007.txt",
       "txt": "风波"
     }     
