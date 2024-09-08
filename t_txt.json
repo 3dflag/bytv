@@ -3,18 +3,53 @@
 "plist":
 [ 
 
+    {
+      "img": "txt:洪律师",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_000.txt",
+      "txt": "起因"
+    },
 
     {
       "img": "txt:洪律师",
       "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_001.txt",
       "txt": "談表演賽邀請風波"
     },
+
+    {
+      "img": "txt:洪律师",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_003.txt",
+      "txt": "表演賽邀請風波看似暫落幕"
+    },    
     
     {
       "img": "txt:阿耀",
       "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_002.txt",
       "txt": "高手在民间"
-    }
+    },
+
+    {
+      "img": "txt:阿耀",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_004.txt",
+      "txt": "对与错"
+    },
+
+    {
+      "img": "txt:阿耀",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_005.txt",
+      "txt": "苍蝇之王"
+    },
+
+    {
+      "img": "txt:阿耀",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_006.txt",
+      "txt": "怎样才算带风向"
+    },    
+
+    {
+      "img": "txt:阿耀",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/news_007.txt",
+      "txt": "风波"
+    }     
     
    
 ]
