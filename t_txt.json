@@ -1,0 +1,21 @@
+
+{
+"plist":
+[ 
+
+
+    {
+      "img": "txt:",
+      "url": "pkg:com.bytv.bayeetv3",
+      "txt": "電視直播"
+    },
+    
+    {
+      "img": "txt:報紙新聞",
+      "url": "pkg:com.example.newsreader",
+      "txt": "報紙新聞"
+    }
+    
+   
+]
+}
