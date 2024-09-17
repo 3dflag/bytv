@@ -1,0 +1,424 @@
+{
+    "plist": [
+        {
+            "img": "txt:诗阳",
+            "url": "http://www.shigeku.com/shiku/xs/shiyang.htm",
+            "txt": "诗阳"
+        },
+        {
+            "img": "txt:简宁",
+            "url": "http://www.shigeku.com/shiku/xs/jianning.htm",
+            "txt": "简宁"
+        },
+        {
+            "img": "txt:蔡天新",
+            "url": "http://www.shigeku.com/shiku/xs/caitianxin.htm",
+            "txt": "蔡天新"
+        },
+        {
+            "img": "txt:杨小滨",
+            "url": "http://www.shigeku.com/shiku/xs/yangxiaobin.htm",
+            "txt": "杨小滨"
+        },
+        {
+            "img": "txt:ＪＨ",
+            "url": "http://www.shigeku.com/shiku/xs/jh.htm",
+            "txt": "ＪＨ"
+        },
+        {
+            "img": "txt:鲁鸣",
+            "url": "http://www.shigeku.com/shiku/xs/luming.htm",
+            "txt": "鲁鸣"
+        },
+        {
+            "img": "txt:祝凤鸣",
+            "url": "http://www.shigeku.com/shiku/xs/zhufengming.htm",
+            "txt": "祝凤鸣"
+        },
+        {
+            "img": "txt:丁泓",
+            "url": "http://www.shigeku.com/shiku/xs/dinghong.htm",
+            "txt": "丁泓"
+        },
+        {
+            "img": "txt:非杨",
+            "url": "http://www.shigeku.com/shiku/xs/feiyang.htm",
+            "txt": "非杨"
+        },
+        {
+            "img": "txt:梦冉",
+            "url": "http://www.shigeku.com/shiku/xs/mengran.htm",
+            "txt": "梦冉"
+        },
+        {
+            "img": "txt:蓝角",
+            "url": "http://www.shigeku.com/shiku/xs/lanjiao.htm",
+            "txt": "蓝角"
+        },
+        {
+            "img": "txt:臧棣",
+            "url": "http://www.shigeku.com/shiku/xs/zangdi.htm",
+            "txt": "臧棣"
+        },
+        {
+            "img": "txt:李南",
+            "url": "http://www.shigeku.com/shiku/xs/linan.htm",
+            "txt": "李南"
+        },
+        {
+            "img": "txt:梁元",
+            "url": "http://www.shigeku.com/shiku/xs/liangyuan.htm",
+            "txt": "梁元"
+        },
+        {
+            "img": "txt:潘维",
+            "url": "http://www.shigeku.com/shiku/xs/panwei.htm",
+            "txt": "潘维"
+        },
+        {
+            "img": "txt:杜马兰",
+            "url": "http://www.shigeku.com/shiku/xs/dumalan.htm",
+            "txt": "杜马兰"
+        },
+        {
+            "img": "txt:林东威",
+            "url": "http://www.shigeku.com/shiku/xs/lindongwei.htm",
+            "txt": "林东威"
+        },
+        {
+            "img": "txt:吴晨骏",
+            "url": "http://www.shigeku.com/shiku/xs/wuchenjun.htm",
+            "txt": "吴晨骏"
+        },
+        {
+            "img": "txt:蓝蓝",
+            "url": "http://www.shigeku.com/shiku/xs/lanlan.htm",
+            "txt": "蓝蓝"
+        },
+        {
+            "img": "txt:莫雅平",
+            "url": "http://www.shigeku.com/shiku/xs/moyaping.htm",
+            "txt": "莫雅平"
+        },
+        {
+            "img": "txt:宋晓贤",
+            "url": "http://www.shigeku.com/shiku/xs/songxiaoxian.htm",
+            "txt": "宋晓贤"
+        },
+        {
+            "img": "txt:伊沙",
+            "url": "http://www.shigeku.com/shiku/xs/yisha.htm",
+            "txt": "伊沙"
+        },
+        {
+            "img": "txt:戈麦",
+            "url": "http://www.shigeku.com/shiku/xs/gemai.htm",
+            "txt": "戈麦"
+        },
+        {
+            "img": "txt:余怒",
+            "url": "http://www.shigeku.com/shiku/xs/yunu.htm",
+            "txt": "余怒"
+        },
+        {
+            "img": "txt:侯马",
+            "url": "http://www.shigeku.com/shiku/xs/houma.htm",
+            "txt": "侯马"
+        },
+        {
+            "img": "txt:陈先发",
+            "url": "http://www.shigeku.com/shiku/xs/chenxianfa.htm",
+            "txt": "陈先发"
+        },
+        {
+            "img": "txt:朱文",
+            "url": "http://www.shigeku.com/shiku/xs/zhuwen.htm",
+            "txt": "朱文"
+        },
+        {
+            "img": "txt:若风",
+            "url": "http://www.shigeku.com/shiku/xs/ruofeng.htm",
+            "txt": "若风"
+        },
+        {
+            "img": "txt:桑克",
+            "url": "http://www.shigeku.com/shiku/xs/sangke.htm",
+            "txt": "桑克"
+        },
+        {
+            "img": "txt:西渡",
+            "url": "http://www.shigeku.com/shiku/xs/xidu.htm",
+            "txt": "西渡"
+        },
+        {
+            "img": "txt:徐江",
+            "url": "http://www.shigeku.com/shiku/xs/xujiang.htm",
+            "txt": "徐江"
+        },
+        {
+            "img": "txt:杨键",
+            "url": "http://www.shigeku.com/shiku/xs/yangjian.htm",
+            "txt": "杨键"
+        },
+        {
+            "img": "txt:李少君",
+            "url": "http://www.shigeku.com/shiku/xs/lishaojun.htm",
+            "txt": "李少君"
+        },
+        {
+            "img": "txt:韩国强",
+            "url": "http://www.shigeku.com/shiku/xs/hanguoqiang.htm",
+            "txt": "韩国强"
+        },
+        {
+            "img": "txt:君儿",
+            "url": "http://www.shigeku.com/shiku/xs/juner.htm",
+            "txt": "君儿"
+        },
+        {
+            "img": "txt:祁国",
+            "url": "http://www.shigeku.com/shiku/xs/qiguo.htm",
+            "txt": "祁国"
+        },
+        {
+            "img": "txt:牧野",
+            "url": "http://www.shigeku.com/shiku/xs/muye.htm",
+            "txt": "牧野"
+        },
+        {
+            "img": "txt:谭五昌",
+            "url": "http://www.shigeku.com/shiku/xs/tanwuchang.htm",
+            "txt": "谭五昌"
+        },
+        {
+            "img": "txt:寒烟",
+            "url": "http://www.shigeku.com/shiku/xs/hanyan.htm",
+            "txt": "寒烟"
+        },
+        {
+            "img": "txt:殷常青",
+            "url": "http://www.shigeku.com/shiku/xs/yinchangqing.htm",
+            "txt": "殷常青"
+        },
+        {
+            "img": "txt:铁梅",
+            "url": "http://www.shigeku.com/shiku/xs/tiemei.htm",
+            "txt": "铁梅"
+        },
+        {
+            "img": "txt:安琪",
+            "url": "http://www.shigeku.com/shiku/xs/anqi.htm",
+            "txt": "安琪"
+        },
+        {
+            "img": "txt:莱耳",
+            "url": "http://www.shigeku.com/shiku/xs/laier.htm",
+            "txt": "莱耳"
+        },
+        {
+            "img": "txt:陆苏",
+            "url": "http://www.shigeku.com/shiku/xs/lusu.htm",
+            "txt": "陆苏"
+        },
+        {
+            "img": "txt:讴阳北方",
+            "url": "http://www.shigeku.com/shiku/xs/ouyangbeifang.htm",
+            "txt": "讴阳北方"
+        },
+        {
+            "img": "txt:傅旭华",
+            "url": "http://www.shigeku.com/shiku/xs/fuxuhua.htm",
+            "txt": "傅旭华"
+        },
+        {
+            "img": "txt:徐勇",
+            "url": "http://www.shigeku.com/shiku/xs/xuyong.htm",
+            "txt": "徐勇"
+        },
+        {
+            "img": "txt:黄小名",
+            "url": "http://www.shigeku.com/shiku/xs/huangxiaoming.htm",
+            "txt": "黄小名"
+        },
+        {
+            "img": "txt:独孤九",
+            "url": "http://www.shigeku.com/shiku/xs/dugujiu.htm",
+            "txt": "独孤九"
+        },
+        {
+            "img": "txt:王艾",
+            "url": "http://www.shigeku.com/shiku/xs/wangai.htm",
+            "txt": "王艾"
+        },
+        {
+            "img": "txt:刘泽球",
+            "url": "http://www.shigeku.com/shiku/xs/liuzeqiu.htm",
+            "txt": "刘泽球"
+        },
+        {
+            "img": "txt:牧斯",
+            "url": "http://www.shigeku.com/shiku/xs/musi.htm",
+            "txt": "牧斯"
+        },
+        {
+            "img": "txt:江子",
+            "url": "http://www.shigeku.com/shiku/xs/jiangzi.htm",
+            "txt": "江子"
+        },
+        {
+            "img": "txt:陶春",
+            "url": "http://www.shigeku.com/shiku/xs/taochun.htm",
+            "txt": "陶春"
+        },
+        {
+            "img": "txt:林家柏",
+            "url": "http://www.shigeku.com/shiku/xs/linjiabo.htm",
+            "txt": "林家柏"
+        },
+        {
+            "img": "txt:杨拓",
+            "url": "http://www.shigeku.com/shiku/xs/yangtuo.htm",
+            "txt": "杨拓"
+        },
+        {
+            "img": "txt:张祈",
+            "url": "http://www.shigeku.com/shiku/xs/zhangqi.htm",
+            "txt": "张祈"
+        },
+        {
+            "img": "txt:马非",
+            "url": "http://www.shigeku.com/shiku/xs/mafei.htm",
+            "txt": "马非"
+        },
+        {
+            "img": "txt:南人",
+            "url": "http://www.shigeku.com/shiku/xs/nanren.htm",
+            "txt": "南人"
+        },
+        {
+            "img": "txt:朵渔",
+            "url": "http://www.shigeku.com/shiku/xs/duoyu.htm",
+            "txt": "朵渔"
+        },
+        {
+            "img": "txt:胡续冬",
+            "url": "http://www.shigeku.com/shiku/xs/huxudong.htm",
+            "txt": "胡续冬"
+        },
+        {
+            "img": "txt:范想",
+            "url": "http://www.shigeku.com/shiku/xs/fanxiang.htm",
+            "txt": "范想"
+        },
+        {
+            "img": "txt:沈浩波",
+            "url": "http://www.shigeku.com/shiku/xs/shenhaobo.htm",
+            "txt": "沈浩波"
+        },
+        {
+            "img": "txt:韩博",
+            "url": "http://www.shigeku.com/shiku/xs/hanbo.htm",
+            "txt": "韩博"
+        },
+        {
+            "img": "txt:古马",
+            "url": "http://www.shigeku.com/shiku/xs/guma.htm",
+            "txt": "古马"
+        },
+        {
+            "img": "txt:于洛生",
+            "url": "http://www.shigeku.com/shiku/xs/yuluosheng.htm",
+            "txt": "于洛生"
+        },
+        {
+            "img": "txt:席亚兵",
+            "url": "http://www.shigeku.com/shiku/xs/xiyabing.htm",
+            "txt": "席亚兵"
+        },
+        {
+            "img": "txt:树才",
+            "url": "http://www.shigeku.com/shiku/xs/shucai.htm",
+            "txt": "树才"
+        },
+        {
+            "img": "txt:巴音博罗",
+            "url": "http://www.shigeku.com/shiku/xs/bayinboluo.htm",
+            "txt": "巴音博罗"
+        },
+        {
+            "img": "txt:施玮",
+            "url": "http://www.shigeku.com/shiku/xs/shiwei.htm",
+            "txt": "施玮"
+        },
+        {
+            "img": "txt:宋非",
+            "url": "http://www.shigeku.com/shiku/xs/songfei.htm",
+            "txt": "宋非"
+        },
+        {
+            "img": "txt:章平",
+            "url": "http://www.shigeku.com/shiku/xs/zhangping.htm",
+            "txt": "章平"
+        },
+        {
+            "img": "txt:郑文斌",
+            "url": "http://www.shigeku.com/shiku/xs/zhengwenbin.htm",
+            "txt": "郑文斌"
+        },
+        {
+            "img": "txt:周伟驰",
+            "url": "http://www.shigeku.com/shiku/xs/zhouweichi.htm",
+            "txt": "周伟驰"
+        },
+        {
+            "img": "txt:朱朱",
+            "url": "http://www.shigeku.com/shiku/xs/zhuzhu.htm",
+            "txt": "朱朱"
+        },
+        {
+            "img": "txt:巫昂",
+            "url": "http://www.shigeku.com/shiku/xs/wuang.htm",
+            "txt": "巫昂"
+        },
+        {
+            "img": "txt:沈方",
+            "url": "http://www.shigeku.com/shiku/xs/shenfang.htm",
+            "txt": "沈方"
+        },
+        {
+            "img": "txt:沈苇",
+            "url": "http://www.shigeku.com/shiku/xs/shenwei.htm",
+            "txt": "沈苇"
+        },
+        {
+            "img": "txt:孙磊",
+            "url": "http://www.shigeku.com/shiku/xs/sunlei.htm",
+            "txt": "孙磊"
+        },
+        {
+            "img": "txt:麦芒",
+            "url": "http://www.shigeku.com/shiku/xs/maimang.htm",
+            "txt": "麦芒"
+        },
+        {
+            "img": "txt:马兰",
+            "url": "http://www.shigeku.com/shiku/xs/malan.htm",
+            "txt": "马兰"
+        },
+        {
+            "img": "txt:马永波",
+            "url": "http://www.shigeku.com/shiku/xs/mayongbo.htm",
+            "txt": "马永波"
+        },
+        {
+            "img": "txt:李元胜",
+            "url": "http://www.shigeku.com/shiku/xs/liyuansheng.htm",
+            "txt": "李元胜"
+        },
+        {
+            "img": "txt:剑枫",
+            "url": "http://www.shigeku.com/shiku/xs/jianfeng.htm",
+            "txt": "剑枫"
+        }
+    ]
+}
