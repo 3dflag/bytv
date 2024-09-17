@@ -19,7 +19,19 @@
       "img": "txt:网络",
       "url": "grp:t_web.json",
       "txt": "网络"
-    }
+    },
+
+    {
+      "img": "txt:講看什麼",
+      "url": "stt:",
+      "txt": "講看什麼"
+    },  
+
+    {
+      "img": "txt:维基百科",
+      "url": "wiki:",
+      "txt": "维基百科"
+    }    
         
 ]
 }
