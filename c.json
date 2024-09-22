@@ -22,12 +22,21 @@
 
 		{
 			"id":"8",
-			"name":"8视界",
+			"name":"8",
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"000330"},
-				{"url":"RvSOIM620bA"}
+				{"url":"000330"}
+			]
+		},	
+
+		{
+			"id":"9",
+			"name":"9",
+			"epg":"",
+			"type":"direct",
+			"stream":[
+				{"url":"000331"}
 			]
 		},		
 
