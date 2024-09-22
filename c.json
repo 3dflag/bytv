@@ -24,9 +24,9 @@
 			"id":"8",
 			"name":"8视界",
 			"epg":"",
-			"type":"youtubelive",
+			"type":"direct",
 			"stream":[
-				{"url":"330"},
+				{"url":"000330"},
 				{"url":"RvSOIM620bA"}
 			]
 		},		
