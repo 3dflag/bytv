@@ -22,11 +22,11 @@
 
 		{
 			"id":"8",
-			"name":"8",
+			"name":"0597f08d102d814728d9b4aa1a4a48fe",
 			"epg":"",
 			"type":"direct",
 			"stream":[
-				{"url":"000330"}
+				{"url":"bytv://36839c133f600f6da5498439b498276d05b97bab0336f2b03cdcbc5796c2bede9ea4f91a8e7cc47288ff0ec548f15beeced93d456a3f59d24ffdc654ae61f1ab57bf69498d88956964614002cc3c707da76a475601b7f0e7b96d34aedf769328d8e31103fd66af4152c1c398546b9e32b45fe9a5bd5b3c02730b269fd3a745c86b7e1e33737cafdcb766aab07e2be266cf0ef6fa735fc15c5184504289fadc6a"}
 			]
 		},	
 
