@@ -78,6 +78,17 @@
          ]
       },
       {
+         "id":"104",
+         "name":"Astro AWANI",
+         "epg":"",
+         "type":"direct",
+         "stream":[
+            {
+               "url":"https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8"
+            }
+         ]
+      },      
+      {
          "id":"108",
          "name":"87804e2eaebff58dbea592c9e96774ab",
          "epg":"http://ams-api.astro.com.my/ams/v3/getEvents?periodStart=yyyy-MM-dd:00:00:00&periodEnd=yyyy-MM-dd:23:59:59&channelId=115",
@@ -647,6 +658,17 @@
       },
       {
          "id":"372",
+         "name":"BBC News",
+         "epg":"",
+         "type":"direct",
+         "stream":[
+            {
+               "url":"https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_1499968=1-mp4a_208000_eng=2.m3u8"
+            }
+         ]
+      },      
+      {
+         "id":"380",
          "name":"日本新闻",
          "epg":"",
          "type":"youtubelive",
@@ -657,7 +679,7 @@
          ]
       },
       {
-         "id":"373",
+         "id":"381",
          "name":"KBS韩国",
          "epg":"",
          "type":"youtubelive",
