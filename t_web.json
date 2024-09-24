@@ -43,7 +43,11 @@
       "txt": "黄金年华"
     },  
    
-
+    {
+      "img": "txt:wiki",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%9D%A1",
+      "txt": "wiki"
+    }, 
    
     
     {
