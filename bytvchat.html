@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat Web Page</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+      }
+
+      .chat-container {
+        flex: 1;
+        padding: 10px;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .chat-message {
+        margin-bottom: 10px;
+        padding: 10px;
+        max-width: 60%;
+        border-radius: 10px;
+        word-wrap: break-word;
+      }
+
+      .personA {
+        align-self: flex-end;
+        background-color: yellow;
+        text-align: right;
+        border: 2px solid black;
+      }
+
+      .personB {
+        align-self: flex-start;
+        background-color: cyan;
+        text-align: left;
+        border: 2px solid black;
+      }
+
+      .input-container {
+        display: flex;
+        padding: 10px;
+        background-color: #fff;
+        border-top: 1px solid #ccc;
+      }
+
+      #chat-input {
+        flex: 1;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-right: 10px;
+      }
+
+      button {
+        padding: 10px 20px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #45a049;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="chat-container" class="chat-container">
+      <!-- Chat messages will be dynamically inserted here -->
+    </div>
+
+    <div class="input-container">
+      <input type="text" id="chat-input" placeholder="Type your message..." />
+      <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+      function add_chat(txt, chatter) {
+        const chatContainer = document.getElementById("chat-container");
+
+        // Create a new chat message element
+        const newMessage = document.createElement("div");
+        newMessage.classList.add("chat-message");
+
+        // Align message based on the chatter
+        if (chatter === "A") {
+          newMessage.classList.add("personA");
+        } else if (chatter === "B") {
+          newMessage.classList.add("personB");
+        }
+
+        // Set the chat text
+        newMessage.textContent = txt;
+
+        // Add the new message to the chat container
+        chatContainer.appendChild(newMessage);
+
+        // Auto-scroll to the bottom of the chat container
+        chatContainer.scrollTop = chatContainer.scrollHeight;
+      }
+
+      function sendMessage() {
+        const inputField = document.getElementById("chat-input");
+        const message = inputField.value.trim();
+
+        if (message) {
+          // Assuming chatter A sends the message
+          add_chat(message, "A");
+          inputField.value = ""; // Clear the input field
+        }
+      }
+
+      function addTextToInput(text) {
+        const inputField = document.getElementById("chat-input");
+        inputField.value = text; // Set the provided text to the input field
+      }
+
+      // Example: Automatically add a message from Person B after a delay (simulate incoming message)
+      setTimeout(() => {
+        add_chat("Hello from Person B!", "B");
+      }, 3000);
+    </script>
+  </body>
+</html>
