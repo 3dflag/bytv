@@ -10,6 +10,12 @@
       "txt": "電視直播"
     },
 
+ {
+      "img": "txt:从龙故事",
+      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/cl.txt",
+      "txt": "从龙故事"
+    },
+
     {
       "img": "txt:朦胧诗选",
       "url": "grp:t_shi.json",
