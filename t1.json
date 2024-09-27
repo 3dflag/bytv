@@ -10,11 +10,6 @@
       "txt": "電視直播"
     },
 
- {
-      "img": "txt:从龙故事",
-      "url": "https://raw.githubusercontent.com/3dflag/bytv/main/cl.txt",
-      "txt": "从龙故事"
-    },
 
     {
       "img": "txt:朦胧诗选",
@@ -72,12 +67,6 @@
       "txt": "講看什麼"
     }, 
     
-
-    {
-      "img": "txt:聊天机器人",
-      "url": "chat:",
-      "txt": "聊天机器人"
-    },     
 
     {
       "img": "txt:维基百科",
