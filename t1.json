@@ -11,11 +11,7 @@
     },
 
 
-    {
-      "img": "txt:朦胧诗选",
-      "url": "grp:t_shi.json",
-      "txt": "朦胧诗选"
-    },   
+ 
     
     {
       "img": "txt:報紙新聞",
@@ -60,6 +56,12 @@
       "url": "grp:t_other.json",
       "txt": "其他視頻"
     },
+
+    {
+      "img": "txt:聊天机器人",
+      "url": "chat:",
+      "txt": "聊天机器人"
+    },      
     
     {
       "img": "txt:講看什麼",
@@ -72,7 +74,13 @@
       "img": "txt:维基百科",
       "url": "wiki:",
       "txt": "维基百科"
-    }     
+    },    
+
+    {
+      "img": "txt:朦胧诗选",
+      "url": "grp:t_shi.json",
+      "txt": "朦胧诗选"
+    }    
     
 
     
