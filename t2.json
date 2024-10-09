@@ -6,7 +6,20 @@
       "img": "txt:电视",
       "url": "pkg:com.bytv.bayeetv3",
       "txt": "电视"
-    },   
+    },  
+
+
+    {
+      "img": "txt:李显龙哀悼词",
+      "url": "https://sites.google.com/view/lhl2024/home",
+      "txt": "李显龙哀悼词"
+    },
+
+    {
+      "img": "txt:李玮玲自述",
+      "url": "https://sites.google.com/view/lhl2024/lwl",
+      "txt": "李玮玲自述"
+    },     
 
     {
       "img": "txt:報紙新聞",
