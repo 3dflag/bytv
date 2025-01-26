@@ -6,15 +6,7 @@
       "img": "txt:电视",
       "url": "pkg:com.bytv.bayeetv3",
       "txt": "电视"
-    },  
-
-
-    {
-      "img": "txt:悼。老友",
-      "url": "grp:t_friend.json",
-      "txt": "悼。老友"
     }, 
-  
 
     {
       "img": "txt:報紙新聞",
