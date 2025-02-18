@@ -1,10 +1,8 @@
 {
 "plist":
 [
-
-
-    {
-      "img": "txt:老人运动",
+   {
+      "img": "https://i.ytimg.com/vi/8geZJ-trhEI/mqdefault.jpg",
       "url": "ytvid:8geZJ-trhEI",
       "txt": "中老年人健身"
     },
