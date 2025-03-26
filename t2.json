@@ -7,12 +7,7 @@
       "url": "pkg:com.bytv.bayeetv3",
       "txt": "电视"
     }, 
-
-   {
-      "img": "https://i.ytimg.com/vi/O-5cetMP2Pg/mqdefault.jpg",
-      "url": "ytvid:O-5cetMP2Pg",
-      "txt": "手物理治疗"
-    },    
+  
 
     {
       "img": "txt:報紙新聞",
