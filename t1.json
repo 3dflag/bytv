@@ -12,18 +12,6 @@
 
     
     {
-      "img": "txt:柔佛透视回复1",
-      "url": "https://sites.google.com/view/lowkeejoo1/home",
-      "txt": "柔佛透视回复1"
-    }, 
-    
-    {
-      "img": "txt:柔佛透视回复2",
-      "url": "https://sites.google.com/view/lowkeejoo2/home",
-      "txt": "柔佛透视回复2"
-    },     
-    
-    {
       "img": "txt:報紙新聞",
       "url": "pkg:com.example.newsreader",
       "txt": "報紙新聞"
