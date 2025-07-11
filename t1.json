@@ -10,12 +10,6 @@
       "txt": "電視直播"
     },
 
-      {
-            "img": "txt:四叔的屋子",
-            "url": "https://sites.google.com/view/tamanbakri",
-            "txt": "四叔的屋子"
-     },
-
     
     {
       "img": "txt:報紙新聞",
@@ -59,13 +53,7 @@
       "img": "txt:其他視頻",
       "url": "grp:t_other.json",
       "txt": "其他視頻"
-    },
-
-    {
-      "img": "txt:聊天机器人",
-      "url": "chat:",
-      "txt": "聊天机器人"
-    },      
+    },     
     
     {
       "img": "txt:講看什麼",
