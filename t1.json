@@ -10,17 +10,19 @@
       "txt": "電視直播"
     },
 
-    {
-      "img": "txt:点评和改进-我是老大",
-      "url": "https://3dflag.wordpress.com/565-2/",
-      "txt": "点评和改进-我是老大"
-    },    
+   
 
     
     {
       "img": "txt:報紙新聞",
       "url": "pkg:com.example.newsreader",
       "txt": "報紙新聞"
+    }, 
+
+    {
+      "img": "txt:再评-我是老大",
+      "url": "https://sites.google.com/view/tamanbakri/home",
+      "txt": "再评-我是老大"
     }, 
     
 
