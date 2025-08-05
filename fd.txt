@@ -1,0 +1,6 @@
+HSBC         RM60
+Hong Leong   RM3956
+UOB          RM3814
+AFFIN        RM989
+PUBLIC       RM329
+OCBC
