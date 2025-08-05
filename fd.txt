@@ -4,3 +4,9 @@ UOB          RM3814
 AFFIN        RM989
 PUBLIC       RM329
 OCBC
+
+{
+      "img": "txt:户口",
+      "url": "https://github.com/3dflag/bytv/blob/main/fd.txt",
+      "txt": "户口"
+    },
