@@ -7,6 +7,12 @@
       "url": "pkg:com.bytv.bayeetv3",
       "txt": "电视"
     }, 
+    
+    {
+      "img": "txt:户口",
+      "url": "https://github.com/3dflag/bytv/blob/main/fd.txt",
+      "txt": "户口"
+    },
   
 
     {
