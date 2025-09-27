@@ -12,10 +12,16 @@
 
    
     {
-      "img": "txt:PSA 变化曲线",
+      "img": "txt:改诗",
       "url": "https://sites.google.com/view/tamanbakri/home",
-      "txt": "PSA 变化曲线"
+      "txt": "改诗"
     }, 
+
+    {
+      "img": "txt:AI屏改诗",
+      "url": "https://sites.google.com/view/draftme/home",
+      "txt": "AI屏改诗"
+    },     
 
     
     {
