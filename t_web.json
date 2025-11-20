@@ -1,11 +1,7 @@
 {
 "plist":
 [
-   {
-      "img": "https://i.ytimg.com/vi/8geZJ-trhEI/mqdefault.jpg",
-      "url": "ytvid:8geZJ-trhEI",
-      "txt": "中老年人健身"
-    },
+   
     
 
     {
@@ -41,11 +37,7 @@
       "txt": "黄金年华"
     },  
    
-    {
-      "img": "txt:wiki",
-      "url": "https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%9D%A1",
-      "txt": "wiki"
-    }, 
+
    
     
     {
