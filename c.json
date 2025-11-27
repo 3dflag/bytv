@@ -12,13 +12,36 @@
          ]
       },
       {
-         "id":"8",
+         "id":"7",
          "name":"八视界",
          "epg":"",
          "type":"youtubelive",
          "stream":[
             {
                "url":"RvSOIM620bA"
+            }
+         ]
+      },
+
+      {
+         "id":"8",
+         "name":"0597f08d102d814728d9b4aa1a4a48fe",
+         "epg":"",
+         "type":"direct",
+         "stream":[
+            {
+               "url":"bytv://36839c133f600f6da5498439b498276d05b97bab0336f2b03cdcbc5796c2bede9ea4f91a8e7cc47288ff0ec548f15beeced93d456a3f59d24ffdc654ae61f1ab57bf69498d88956964614002cc3c707da76a475601b7f0e7b96d34aedf769328d8e31103fd66af4152c1c398546b9e32b45fe9a5bd5b3c02730b269fd3a745c86b7e1e33737cafdcb766aab07e2be266cf0ef6fa735fc15c5184504289fadc6a"
+            }
+         ]
+      },
+      {
+         "id":"9",
+         "name":"5cb79a21b78696fc22243335267c2718",
+         "epg":"",
+         "type":"direct",
+         "stream":[
+            {
+               "url":"bytv://24a2dcaa0a39c37cee4aa3001d9572f61fa0de9e3dd7167c639d15e50d8f76f9a4fd56ae09f1f316037e764340e541e6b9a74532e94da96016b9c9c24e2148af2c91ddf268e3839a489c2ee83d959881d02e3ae71122dbca5965f373e14b749a8f69d54bae19bc68927a8d7d341db9f86131a8b7fed7d57a3fb953ac899c0ed1d19e08ee8fcfdc1af1feff9634eeb89440deee3ebb322c8eb6edc43b3e1a661f"
             }
          ]
       },
