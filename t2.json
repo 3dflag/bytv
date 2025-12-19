@@ -35,7 +35,7 @@
     },
     
     {
-      "img": "txt:小云"
+      "img": "txt:小云",
       "url": "pkg:com.svc.launcher.xy10s",
       "txt": "小云"
     }
