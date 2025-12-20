@@ -26,7 +26,13 @@
       "url": "grp:t_music.json",
       "txt": "黄金年华"
     }, 
-
+    
+    {
+      "img": "txt:第8频道",
+      "url": "pkg:com.svc.vlive.home.ytv10x,com.svc.vlive.ui.activity.LivePlayerActivity",
+      "txt": "第8频道"
+    }, 
+    
     {
       "img": "txt:講看什麼",
       "url": "stt:",
