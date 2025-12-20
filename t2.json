@@ -15,21 +15,22 @@
     },    
     
     {
-      "img": "txt:网络",
-      "url": "grp:t_web.json",
-      "txt": "网络"
-    },
+      "img": "txt:新加坡大小事",
+      "url": "ytlist:UCUqUtr0w-K8W4AfpbHiYSaQ",
+      "txt": "新加坡大小事"
+    },      
+
+
+    {
+      "img": "txt:黄金年华",
+      "url": "grp:t_music.json",
+      "txt": "黄金年华"
+    }, 
 
     {
       "img": "txt:講看什麼",
       "url": "stt:",
       "txt": "講看什麼"
-    },
-    
-    {
-      "img": "txt:小云",
-      "url": "pkg:com.svc.launcher.xy10s",
-      "txt": "小云"
     }
         
 ]
