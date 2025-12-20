@@ -4,23 +4,15 @@
 [
     {
       "img": "txt:电视",
-      "url": "pkg:com.xyz.vlive.home.splash.SplashActivity",
+      "url": "pkg:com.svc.vlive.home.ytv10x,com.xyz.vlive.home.splash.SplashActivity",
       "txt": "电视"
     }, 
 
-
-
-    
-  
-  
-
     {
       "img": "txt:報紙新聞",
-      "url": "pkg:com.example.newsreader",
+      "url": "pkg:com.example.newsreader,com.example.newsreader.MainActivity",
       "txt": "報紙新聞"
-    },     
-
-
+    },    
     
     {
       "img": "txt:网络",
