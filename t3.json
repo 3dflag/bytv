@@ -4,7 +4,7 @@
 [
     {
       "img": "txt:看电视",
-      "url": "pkg:com.bytv.bayeetv3",
+      "url": "broadcast:com.svc.vlive.START_CHANNEL",
       "txt": "看电视"
     },
     
@@ -13,12 +13,7 @@
       "url": "ytlist:PLkvG4EWPDB0mcUAKAwg6QdNqY2TEnLRe1",
       "txt": "但愿 人长久"
     }, 
-    
-    {
-      "img": "txt:Yogurt Live",
-      "url": "broadcast:com.svc.vlive.START_CHANNEL",
-      "txt": "Yogurt Live"
-    },
+
     
 
     {
