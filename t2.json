@@ -21,9 +21,9 @@
     },   
     
     {
-      "img": "txt:看過的戲",
+      "img": "txt:看過的戏",
       "url": "pkg:org.smarttube.stable,com.liskovsoft.smartyoutubetv2.tv.ui.main.SplashActivity",
-      "txt": "看過的戲 "
+      "txt": "看過的戏"
     },
 
 
