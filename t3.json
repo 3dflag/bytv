@@ -3,9 +3,21 @@
 "plist":
 [
     {
-      "img": "txt:看电视",
+      "img": "txt:看直播",
       "url": "broadcast:com.svc.vlive.START_CHANNEL",
-      "txt": "看电视"
+      "txt": "看直播"
+    },
+    
+    {
+      "img": "txt:看电影",
+      "url": "pkg:com.svc.vlive.home.ytv10x,com.xyz.vlive.home.splash.SplashActivity",
+      "txt": "看电影"
+    }, 
+    
+    {
+      "img": "txt:YouTube",
+      "url": "pkg:org.smarttube.stable,com.liskovsoft.smartyoutubetv2.tv.ui.main.SplashActivity",
+      "txt": "YouTube"
     },
     
      {
@@ -13,8 +25,6 @@
       "url": "ytlist:PLkvG4EWPDB0mcUAKAwg6QdNqY2TEnLRe1",
       "txt": "但愿 人长久"
     }, 
-
-    
 
     {
       "img": "https://i.ytimg.com/vi/Rp6pZDSfQ34/mqdefault.jpg",
