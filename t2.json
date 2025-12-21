@@ -22,7 +22,7 @@
     
     {
       "img": "txt:看過的戲",
-      "url": "pkg:com.teamsmart.videomanager.tv,com.liskovsoft.smartyoutubetv2.tv.ui.main.SplashActivity",
+      "url": "pkg:org.smarttube.stable,com.liskovsoft.smartyoutubetv2.tv.ui.main.SplashActivity",
       "txt": "看過的戲 "
     },
 
