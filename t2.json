@@ -3,9 +3,15 @@
 "plist":
 [
     {
-      "img": "txt:电视",
+      "img": "txt:第8波道",
+      "url": "broadcast:com.svc.vlive.START_CHANNEL",
+      "txt": "第8波道"
+    }, 
+    
+    {
+      "img": "txt:多多戏",
       "url": "pkg:com.svc.vlive.home.ytv10x,com.xyz.vlive.home.splash.SplashActivity",
-      "txt": "电视"
+      "txt": "多多戏"
     }, 
 
     {
