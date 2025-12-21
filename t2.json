@@ -18,13 +18,13 @@
       "img": "txt:報紙新聞",
       "url": "pkg:com.example.newsreader,com.example.newsreader.MainActivity",
       "txt": "報紙新聞"
-    },    
+    },   
     
     {
-      "img": "txt:新加坡大小事",
-      "url": "ytlist:UCUqUtr0w-K8W4AfpbHiYSaQ",
-      "txt": "新加坡大小事"
-    },      
+      "img": "txt:看過的戲",
+      "url": "pkg:com.teamsmart.videomanager.tv",
+      "txt": "看過的戲 "
+    }  
 
 
     {
