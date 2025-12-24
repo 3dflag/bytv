@@ -13,12 +13,6 @@
       "url": "pkg:com.svc.vlive.home.ytv10x,com.xyz.vlive.home.splash.SplashActivity",
       "txt": "多多戏"
     }, 
-
-    {
-      "img": "txt:報紙新聞",
-      "url": "pkg:com.example.newsreader,com.example.newsreader.MainActivity",
-      "txt": "報紙新聞"
-    },   
     
     {
       "img": "txt:看過的戏",
