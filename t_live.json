@@ -12,15 +12,9 @@
 
     {
       "img": "txt:中天新闻直播",
-      "url": "ytvid:6RlGQlmYAX8",
-      "txt": "中天新闻直播"
-    },     
-
-    {
-      "img": "txt:三立新闻",
-      "url": "ytvid:sjkukcgOJWI",
-      "txt": "三立新闻"
-    }, 
+      "url": "ytvid:vr3XyVCR4T0",
+      "txt": "中天新闻"
+    },
     {
       "img": "txt:鳳凰衛視",
       "url": "ytvid:fN9uYWCjQaw",
@@ -33,7 +27,7 @@
     }, 
         {
       "img": "txt:TVBS新闻",
-      "url": "ytvid:sm_dhMSvUCIc",
+      "url": "ytvid:m_dhMSvUCIc",
       "txt": "TVBS新闻"
     }, 
         {
