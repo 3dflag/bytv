@@ -22,6 +22,75 @@
       "txt": "三立新闻"
     }, 
     {
+      "img": "txt:鳳凰衛視",
+      "url": "ytvid:fN9uYWCjQaw",
+      "txt": "鳳凰衛視"
+    }, 
+        {
+      "img": "txt:CCTV4",
+      "url": "ytvid:7j92Myu2wzg",
+      "txt": "CCTV4"
+    }, 
+        {
+      "img": "txt:TVBS新闻",
+      "url": "ytvid:sm_dhMSvUCIc",
+      "txt": "TVBS新闻"
+    }, 
+        {
+      "img": "txt:民视新闻",
+      "url": "ytvid:ylYJSBUgaMA",
+      "txt": "民视新闻"
+    }, 
+        {
+      "img": "txt:公視新聞",
+      "url": "ytvid:quwqlazU-c8",
+      "txt": "公視新聞"
+    }, 
+        {
+      "img": "txt:东森新闻",
+      "url": "ytvid:0zhe2gkXBs",
+      "txt": "东森新闻"
+    }, 
+        {
+      "img": "txt:台視新聞台",
+      "url": "ytvid:xL0ch83RAK8",
+      "txt": "台視新聞台"
+    }, 
+
+            {
+      "img": "txt:寰宇新聞台",
+      "url": "ytvid:6IquAgfvYmc",
+      "txt": "寰宇新聞台"
+    }, 
+            {
+      "img": "txt:中視新聞台",
+      "url": "ytvid:TCnaIE_SAtM",
+      "txt": "中視新聞台"
+    }, 
+            {
+      "img": "txt:华視新聞台",
+      "url": "ytvid:wM0g8EoUZ_E",
+      "txt": "华視新聞台"
+    }, 
+            {
+      "img": "txt:鏡新聞",
+      "url": "ytvid:5n0y6b0Q25o",
+      "txt": "鏡新聞"
+    }, 
+            {
+      "img": "txt:大爱",
+      "url": "ytvid:MIqUplvSRWA",
+      "txt": "大爱"
+    }, 
+
+                {
+      "img": "txt:新唐人亞太",
+      "url": "ytvid:WIhgU_mc05A",
+      "txt": "新唐人亞太"
+    }, 
+    
+    
+    {
       "img": "txt:正德電視臺",
       "url": "ytvid:vYQhcwgj1Pw",
       "txt": "正德電視臺"
