@@ -11,16 +11,18 @@
     },  
 
     {
+      "img": "txt:屋子已卖",
+      "url": "https://sites.google.com/view/lowkeejoo/home",
+      "txt": "屋子已卖"
+    }, 
+
+    {
       "img": "txt:電視直播-中天",
       "url": "grp:t_live.json",
       "txt": "電視直播-中天"
     },     
 
-    {
-      "img": "txt:从龙已付清",
-      "url": "https://sites.google.com/view/lowkeejoo/home",
-      "txt": "从龙已付清"
-    },     
+    
     
 
 
