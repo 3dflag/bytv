@@ -3,6 +3,11 @@
 "plist":
 [ 
 
+    {
+      "img": "txt:买家要折扣",
+      "url": "https://sites.google.com/view/lowkeejoo/home",
+      "txt": "买家要折扣"
+    },     
 
     {
       "img": "txt:電視直播",
@@ -10,11 +15,7 @@
       "txt": "電視直播"
     },  
 
-    {
-      "img": "txt:屋子已卖",
-      "url": "https://sites.google.com/view/lowkeejoo/home",
-      "txt": "屋子已卖"
-    }, 
+
 
     {
       "img": "txt:電視直播-中天",
