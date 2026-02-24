@@ -3,6 +3,12 @@
 "plist":
 [ 
 
+    {
+      "img": "txt:明天入院",
+      "url": "https://sites.google.com/view/lowkeejoo/home",
+      "txt": "明天入院"
+    },    
+
 
     {
       "img": "txt:電視直播",
