@@ -86,7 +86,19 @@
       "img": "txt:朦胧诗选",
       "url": "grp:t_shi.json",
       "txt": "朦胧诗选"
-    }    
+    },
+    
+    {
+        "img": "txt:Settings",
+        "url": "pkg:com.android.settings",
+        "txt": "Settings"
+    },
+    
+    {
+        "img": "txt:Settings2",
+        "url": "pkg:com.android.settings,com.android.settings.Settings",
+        "txt": "Setting2"
+    }
     
 
     
