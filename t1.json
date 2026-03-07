@@ -87,6 +87,12 @@
       "url": "grp:t_shi.json",
       "txt": "朦胧诗选"
     },
+
+    {
+      "img": "txt:testlive",
+      "url": "ytvid:https://www.youtube.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ/live",
+      "txt": "test live"
+    },    
     
     {
         "img": "txt:Settings",
