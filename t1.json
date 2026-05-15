@@ -3,24 +3,24 @@
 "plist":
 [ 
 
-
     {
-      "img": "txt:应君威转发",
-      "url": "ytlist:UCzMk3Qj8EVRm9KAJSrgqlYA",
-      "txt": "应君威转发"
-    },  
-
-    {
-      "img": "txt:君威-圆满人生",
-      "url": "pkg:com.example.tvimageviewer",
-      "txt": "君威-圆满人生"
-    },  
-
-    {
-      "img": "txt:有没有轮回",
-      "url": "https://sites.google.com/view/keejoo/home",
-      "txt": "有没有轮回"
+      "img": "txt:在成為一名youtuber的路上",
+      "url": "ytvid:GJCmKTrufHY",
+      "txt": "在成為一名youtuber的路上"
     },    
+
+    {
+      "img": "txt:一人炒两锅sambal",
+      "url": "ytvid:WavSd80MRQ4",
+      "txt": "一人炒两锅sambal"
+    },
+
+    {
+      "img": "txt:8度新闻",
+      "url": "ytvid:https://www.youtube.com/channel/UCJZTvwnKU0PBH4dhDJkFyZw/live",
+      "txt": "8度新闻"
+    },    
+  
     
 
     {
