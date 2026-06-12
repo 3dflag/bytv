@@ -86,7 +86,8 @@
          "type":"direct",
          "stream":[
             {
-               "url":"https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/HLS/okey.m3u8"
+               "url":"https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/HLS/okey.m3u8",
+               "referer":"https://rtmklik.rtm.gov.my/"
             }
          ]
       },
@@ -97,7 +98,8 @@
          "type":"direct",
          "stream":[
             {
-               "url":"https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan.m3u8"
+               "url":"https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan.m3u8",
+               "referer":"https://rtmklik.rtm.gov.my/"
             }
          ]
       },
