@@ -3,11 +3,6 @@
 "plist":
 [ 
 
-    {
-      "img": "txt:看直播",
-      "url": "broadcast:com.svc.vlive.START_CHANNEL",
-      "txt": "看直播"
-    },
 
     {
       "img": "txt:神通--丞庆",
