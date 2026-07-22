@@ -7,6 +7,12 @@
       "url": "broadcast:com.svc.vlive.START_CHANNEL",
       "txt": "第8波道"
     }, 
+
+    {
+      "img": "txt:x",
+      "url": "https://sites.google.com/view/mumfd/home",
+      "txt": "x"
+    }, 
     
     {
       "img": "txt:多多戏",
