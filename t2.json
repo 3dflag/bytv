@@ -5,9 +5,9 @@
 
     
     {
-      "img": "txt:多多戏",
-      "url": "pkg:com.svc.vlive.home.ytv10x,com.xyz.vlive.home.splash.SplashActivity",
-      "txt": "多多戏"
+      "img": "txt:中国戏",
+      "url": "pkg:tv.ifvod.classic,com.ppde.android.tv.activity.ui.LauncherActivity",
+      "txt": "中国戏"
     }, 
     
     {
