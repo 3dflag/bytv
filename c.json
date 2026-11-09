@@ -2,12 +2,12 @@
    "program":[
       {
          "id":"6",
-         "name":"CNA",
+         "name":"凤凰卫视",
          "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubelive",
+         "type":"youtubesearch",
          "stream":[
             {
-               "url":"XWq5kBlakcQ"
+               "url":"凤凰卫视&sp=EgJAAQ%253D%253D"
             }
          ]
       },
