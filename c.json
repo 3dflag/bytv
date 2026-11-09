@@ -1,13 +1,24 @@
 {
    "program":[
       {
-         "id":"6",
+         "id":"1",
          "name":"凤凰卫视",
          "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
          "type":"youtubesearch",
          "stream":[
             {
                "url":"凤凰卫视&sp=EgJAAQ%253D%253D"
+            }
+         ]
+      },
+      {
+         "id":"2",
+         "name":"中天新闻",
+         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+         "type":"youtubesearch",
+         "stream":[
+            {
+               "url":"中天新闻&sp=EgJAAQ%253D%253D"
             }
          ]
       },
