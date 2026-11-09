@@ -4,24 +4,48 @@
 [ 
 
     {
-      "img": "txt:王偉忠-沈伯洋",
-      "url": "ytvid:PLVMN39Xo72so",
-      "txt": "5百万点阅率"
+      "img": "txt:大馬時事",
+      "url": "grp:t_malaysia.json",
+      "txt": "大馬時事"
+    },
+
+    {
+      "img": "txt:8度新闻",
+      "url": "ytvid:https://www.youtube.com/channel/UCJZTvwnKU0PBH4dhDJkFyZw/live",
+      "txt": "8度新闻"
+    },   
+
+    {
+      "img": "txt:電視直播-中天",
+      "url": "grp:t_live.json",
+      "txt": "電視直播-中天"
+    },  
+
+    {
+      "img": "txt:臺海局勢",
+      "url": "grp:t_taiwan.json",
+      "txt": "臺海局勢"
     },    
+
+    {
+      "img": "txt:報紙新聞",
+      "url": "pkg:com.example.newsreader",
+      "txt": "報紙新聞"
+    },   
+
+    {
+      "img": "txt:講看什麼",
+      "url": "stt:",
+      "txt": "講看什麼"
+    },    
+  
 
 
     {
       "img": "txt:丞庆佛法分享",
       "url": "grp:t_dhamma.json",
       "txt": "丞庆佛法分享"
-    },    
-
-
-    {
-      "img": "txt:8度新闻",
-      "url": "ytvid:https://www.youtube.com/channel/UCJZTvwnKU0PBH4dhDJkFyZw/live",
-      "txt": "8度新闻"
-    },    
+    },       
   
     
 
@@ -30,35 +54,7 @@
       "url": "pkg:com.bytv.bayeetv3",
       "txt": "電視直播"
     },  
-
-    {
-      "img": "txt:8度新闻",
-      "url": "ytvid:https://www.youtube.com/channel/UCJZTvwnKU0PBH4dhDJkFyZw/live",
-      "txt": "8度新闻"
-    },
-
-
-
-    {
-      "img": "txt:電視直播-中天",
-      "url": "grp:t_live.json",
-      "txt": "電視直播-中天"
-    },     
-
-    
-    
-
-
-    
-    {
-      "img": "txt:報紙新聞",
-      "url": "pkg:com.example.newsreader",
-      "txt": "報紙新聞"
-    }, 
-
-    
-
-    
+   
     {
       "img": "txt:健康资讯",
       "url": "grp:t_health.json",
@@ -71,11 +67,7 @@
       "txt": "相片簿"
     },       
     
-    {
-      "img": "txt:大馬時事",
-      "url": "grp:t_malaysia.json",
-      "txt": "大馬時事"
-    },
+
 
     {
       "img": "txt:狮城大小事",
@@ -83,24 +75,13 @@
       "txt": "狮城大小事"
     },    
     
-    {
-      "img": "txt:臺海局勢",
-      "url": "grp:t_taiwan.json",
-      "txt": "臺海局勢"
-    },     
-    
+
     {
       "img": "txt:其他視頻",
       "url": "grp:t_other.json",
       "txt": "其他視頻"
     },     
-    
-    {
-      "img": "txt:講看什麼",
-      "url": "stt:",
-      "txt": "講看什麼"
-    }, 
-    
+
 
     {
       "img": "txt:维基百科",
@@ -112,24 +93,6 @@
       "img": "txt:朦胧诗选",
       "url": "grp:t_shi.json",
       "txt": "朦胧诗选"
-    },
-
-    {
-      "img": "txt:testlive",
-      "url": "ytvid:https://www.youtube.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ/live",
-      "txt": "test live"
-    },    
-    
-    {
-        "img": "txt:Settings",
-        "url": "pkg:com.android.settings",
-        "txt": "Settings"
-    },
-    
-    {
-        "img": "txt:Settings2",
-        "url": "pkg:com.android.settings,com.android.settings.Settings",
-        "txt": "Setting2"
     }
     
 
