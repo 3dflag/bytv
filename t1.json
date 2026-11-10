@@ -30,7 +30,14 @@
       "img": "txt:講看什麼",
       "url": "stt:",
       "txt": "講看什麼"
-    },    
+    },  
+
+
+    {
+      "img": "txt:狮城大小事",
+      "url": "ytlist:UCUqUtr0w-K8W4AfpbHiYSaQ",
+      "txt": "狮城大小事"
+    },      
   
 
 
@@ -39,14 +46,7 @@
       "url": "grp:t_dhamma.json",
       "txt": "丞庆佛法分享"
     },       
-  
     
-
-    {
-      "img": "txt:電視直播",
-      "url": "pkg:com.bytv.bayeetv3",
-      "txt": "電視直播"
-    },  
    
     {
       "img": "txt:健康资讯",
@@ -61,12 +61,7 @@
     },       
     
 
-
-    {
-      "img": "txt:狮城大小事",
-      "url": "ytlist:UCUqUtr0w-K8W4AfpbHiYSaQ",
-      "txt": "狮城大小事"
-    },    
+  
     
 
     {
