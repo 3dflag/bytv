@@ -195,23 +195,23 @@
       },
       {
          "id":"18",
-         "name":"大爱1",
+         "name":"大爱一",
          "epg":"http://www.daai.tv/daai-web/main/schedule.php",
          "type":"youtubesearch",
          "stream":[
             {
-               "url":"大爱1&sp=EgJAAQ%253D%253D"
+               "url":"大爱一&sp=EgJAAQ%253D%253D"
             }
          ]
       },
       {
          "id":"19",
-         "name":"大爱2",
+         "name":"大爱二",
          "epg":"http://www.daai.tv/daai-web/main/schedule.php",
          "type":"youtubesearch",
          "stream":[
             {
-               "url":"大爱2&sp=EgJAAQ%253D%253D"
+               "url":"大爱二&sp=EgJAAQ%253D%253D"
             }
          ]
       },
@@ -260,28 +260,7 @@
          ]
       },
 
-      {
-         "id":"24",
-         "name":"美国中文電視",
-         "epg":"http://public.sinovision.net/live.php?module=programme&act=getLiveData&type=1",
-         "type":"direct",
-         "stream":[
-            {
-               "url":"https://cdnts.sinovision.net/livestream.m3u8"
-            }
-         ]
-      },
-      {
-         "id":"25",
-         "name":"新唐人亞太",
-         "epg":"http://mod.cht.com.tw/tv/channel.php?id=320",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"新唐人亞太&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
+
       {
          "id":"26",
          "name":"豬哥會社",
@@ -304,17 +283,7 @@
             }
          ]
       },
-      {
-         "id":"28",
-         "name":"台湾启示录",
-         "epg":"",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"台湾启示录&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
+
       {
          "id":"29",
          "name":"天才衝衝衝",
