@@ -2,24 +2,17 @@
 {
 "plist":
 [ 
+    {
+      "img": "txt:电视直播",
+      "url": "pkg:com.app4joy.tvplayer",
+      "txt": "电视直播"
+    },    
 
     {
       "img": "txt:大馬時事",
       "url": "grp:t_malaysia.json",
       "txt": "大馬時事"
-    },
-
-    {
-      "img": "txt:8度新闻",
-      "url": "ytvid:https://www.youtube.com/channel/UCJZTvwnKU0PBH4dhDJkFyZw/live",
-      "txt": "8度新闻"
-    },   
-
-    {
-      "img": "txt:電視直播-中天",
-      "url": "grp:t_live.json",
-      "txt": "電視直播-中天"
-    },  
+    },    
 
     {
       "img": "txt:臺海局勢",
