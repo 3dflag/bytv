@@ -296,6 +296,34 @@
          ]
       },
 
+      {
+         "id":"30",
+         "name":"TV1",
+         "epg":"",
+         "type":"direct",
+         "bg":"malaysia",
+         "stream":[
+            {
+               "url":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+               "referer":"https://rtmklik.rtm.gov.my/"
+            }
+         ]
+      },    
+
+      {
+         "id":"31",
+         "name":"TV2",
+         "epg":"",
+         "type":"direct",
+         "bg":"malaysia",
+         "stream":[
+            {
+               "url":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=2",
+               "referer":"https://rtmklik.rtm.gov.my/"
+            }
+         ]
+      },        
+
 
       {
          "id":"201",
