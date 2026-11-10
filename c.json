@@ -1,403 +1,467 @@
 {
-   "program":[
-      {
-         "id":"1",
-         "name":"凤凰卫视",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"凤凰卫视&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-      {
-         "id":"2",
-         "name":"中天新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"中天新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-      {
-         "id":"3",
-         "name":"三立新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"三立新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },   
-      {
-         "id":"4",
-         "name":"tvbs新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"tvbs新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },    
-      {
-         "id":"5",
-         "name":"东森新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"东森新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },  
-      {
-         "id":"6",
-         "name":"民视新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"民视新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      }, 
-      {
-         "id":"7",
-         "name":"公视新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"公视新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },      
-      {
-         "id":"8",
-         "name":"台视新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"台视新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-      {
-         "id":"9",
-         "name":"中视新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"中视新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },    
-      {
-         "id":"10",
-         "name":"华视新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"华视新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },       
-      {
-         "id":"11",
-         "name":"寰宇新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"寰宇新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      }, 
-      {
-         "id":"12",
-         "name":"镜新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"镜新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },     
-      
-      {
-         "id":"13",
-         "name":"tvbs56",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"tvbs56&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },      
-      {
-         "id":"14",
-         "name":"八度空间新闻",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"八度空间新闻&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },   
-      {
-         "id":"15",
-         "name":"cctv4亚洲",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"cctv4亚洲&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },  
-      {
-         "id":"16",
-         "name":"cctv4美洲",
-         "epg":"https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"cctv4美洲&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },    
-
-
-
-
-
-      {
-         "id":"17",
-         "name":"人间卫视",
-         "epg":"http://www.bltv.tv/program/?f=week",
-         "type":"direct",
-         "stream":[
-            {
-               "url":"https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
-            }
-         ]
-      },
-      {
-         "id":"18",
-         "name":"大爱一",
-         "epg":"http://www.daai.tv/daai-web/main/schedule.php",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"大爱一&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-      {
-         "id":"19",
-         "name":"大爱二",
-         "epg":"http://www.daai.tv/daai-web/main/schedule.php",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"大爱二&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-      {
-         "id":"20",
-         "name":"生命电视",
-         "epg":"http://mod.cht.com.tw/tv/channel.php?id=703",
-         "type":"direct",
-         "stream":[
-            {
-               "url":"http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080"
-            }
-         ]
-      },
-      {
-         "id":"21",
-         "name":"華藏衛視",
-         "epg":"http://mod.cht.com.tw/tv/channel.php?id=702",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"華藏衛視&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-      {
-         "id":"22",
-         "name":"唯心电视",
-         "epg":"",
-         "type":"direct",
-         "stream":[
-            {
-               "url":"http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
-            }
-         ]
-      },
-      {
-         "id":"23",
-         "name":"正德電視臺",
-         "epg":"",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"正德電視臺&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-
-
-      {
-         "id":"26",
-         "name":"豬哥會社",
-         "epg":"",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"豬哥會社&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-      {
-         "id":"27",
-         "name":"萬秀豬王",
-         "epg":"",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"萬秀豬王&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-
-      {
-         "id":"29",
-         "name":"天才衝衝衝",
-         "epg":"",
-         "type":"youtubesearch",
-         "stream":[
-            {
-               "url":"天才衝衝衝&sp=EgJAAQ%253D%253D"
-            }
-         ]
-      },
-
-      {
-         "id":"30",
-         "name":"TV1",
-         "epg":"",
-         "type":"direct",
-         "bg":"malaysia",
-         "stream":[
-            {
-               "url":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
-               "referer":"https://rtmklik.rtm.gov.my/"
-            }
-         ]
-      },    
-
-      {
-         "id":"31",
-         "name":"TV2",
-         "epg":"",
-         "type":"direct",
-         "bg":"malaysia",
-         "stream":[
-            {
-               "url":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=2",
-               "referer":"https://rtmklik.rtm.gov.my/"
-            }
-         ]
-      },        
-
-
-      {
-         "id":"201",
-         "name":"ai fm",
-         "epg":"",
-         "type":"direct",
-         "bg":"malaysia",
-         "stream":[
-            {
-               "url":"https://22283.live.streamtheworld.com/AI_FMAAC.aac",
-               "referer":"https://rtmklik.rtm.gov.my/"
-            }
-         ]
-      },
-      {
-         "id":"202",
-         "name":"958 fm",
-         "epg":"",
-         "type":"direct",
-         "bg":"singapore",
-         "stream":[
-            {
-               "url":"https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=radiosingapore"
-            }
-         ]
-      },
-      {
-         "id":"203",
-         "name":"972 fm",
-         "epg":"",
-         "type":"direct",
-         "bg":"singapore",
-         "stream":[
-            {
-               "url":"https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk"
-            }
-         ]
-      },
-      {
-         "id":"204",
-         "name":"963 fm",
-         "epg":"",
-         "type":"direct",
-         "bg":"singapore",
-         "stream":[
-            {
-               "url":"https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC_SC?dist=sphradio-web&pname=TDSdk"
-            }
-         ]
-      },
-      {
-         "id":"205",
-         "name":"台北广播電臺",
-         "epg":"",
-         "type":"direct",
-         "bg":"taiwan",
-         "stream":[
-            {
-               "url":"https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/chunklist_w678778452.m3u8"
-            }
-         ]
-      },
-      {
-         "id":"206",
-         "name":"香港中文广播",
-         "epg":"",
-         "type":"direct",
-         "bg":"hong kong",
-         "stream":[
-            {
-               "url":"https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8?sd=10&rebase=on"
-            }
-         ]
-      },
-
-   ]
+  "program": [
+    {
+      "id": "1",
+      "name": "凤凰卫视",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "凤凰卫视&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "中天新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "中天新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "三立新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "三立新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "tvbs新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "tvbs新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "东森新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "东森新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "民视新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "民视新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "公视新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "公视新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "台视新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "台视新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "中视新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "中视新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "华视新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "华视新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "寰宇新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "寰宇新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "镜新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "镜新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "tvbs56",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "tvbs56&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "八度空间新闻",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "八度空间新闻&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "cctv4亚洲",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "cctv4亚洲&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "cctv4美洲",
+      "epg": "https://bytv.000webhostapp.com/nowtv.now.com.mewatch.php?c=97072&d=yyyyMMdd",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "cctv4美洲&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "人间卫视",
+      "epg": "http://www.bltv.tv/program/?f=week",
+      "type": "direct",
+      "stream": [
+        {
+          "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "大爱一",
+      "epg": "http://www.daai.tv/daai-web/main/schedule.php",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "大爱一&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "大爱二",
+      "epg": "http://www.daai.tv/daai-web/main/schedule.php",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "大爱二&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "生命电视",
+      "epg": "http://mod.cht.com.tw/tv/channel.php?id=703",
+      "type": "direct",
+      "stream": [
+        {
+          "url": "http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "華藏衛視",
+      "epg": "http://mod.cht.com.tw/tv/channel.php?id=702",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "華藏衛視&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "唯心电视",
+      "epg": "",
+      "type": "direct",
+      "stream": [
+        {
+          "url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "正德電視臺",
+      "epg": "",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "正德電視臺&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "豬哥會社",
+      "epg": "",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "豬哥會社&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "萬秀豬王",
+      "epg": "",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "萬秀豬王&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "天才衝衝衝",
+      "epg": "",
+      "type": "youtubesearch",
+      "stream": [
+        {
+          "url": "天才衝衝衝&sp=EgJAAQ%253D%253D"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "TV1",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "TV2",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "TV Okey",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Berita RTM",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Sukan RTM",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "TV6",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Dewan Rakyat",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Dewan Negara",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "201",
+      "name": "ai fm",
+      "epg": "",
+      "type": "direct",
+      "bg": "malaysia",
+      "stream": [
+        {
+          "url": "https://22283.live.streamtheworld.com/AI_FMAAC.aac",
+          "referer": "https://rtmklik.rtm.gov.my/"
+        }
+      ]
+    },
+    {
+      "id": "202",
+      "name": "958 fm",
+      "epg": "",
+      "type": "direct",
+      "bg": "singapore",
+      "stream": [
+        {
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=radiosingapore"
+        }
+      ]
+    },
+    {
+      "id": "203",
+      "name": "972 fm",
+      "epg": "",
+      "type": "direct",
+      "bg": "singapore",
+      "stream": [
+        {
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk"
+        }
+      ]
+    },
+    {
+      "id": "204",
+      "name": "963 fm",
+      "epg": "",
+      "type": "direct",
+      "bg": "singapore",
+      "stream": [
+        {
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC_SC?dist=sphradio-web&pname=TDSdk"
+        }
+      ]
+    },
+    {
+      "id": "205",
+      "name": "台北广播電臺",
+      "epg": "",
+      "type": "direct",
+      "bg": "taiwan",
+      "stream": [
+        {
+          "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/chunklist_w678778452.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "206",
+      "name": "香港中文广播",
+      "epg": "",
+      "type": "direct",
+      "bg": "hong kong",
+      "stream": [
+        {
+          "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8?sd=10&rebase=on"
+        }
+      ]
+    }
+  ]
 }
