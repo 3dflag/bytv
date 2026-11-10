@@ -2,10 +2,17 @@
 {
 "plist":
 [ 
+
     {
       "img": "txt:电视直播",
       "url": "pkg:com.app4joy.tvplayer",
       "txt": "电视直播"
+    }, 
+    
+    {
+      "img": "txt:洋流崛起",
+      "url": "ytvid:9DXrFXbveEA",
+      "txt": "洋流崛起"
     },    
 
     {
